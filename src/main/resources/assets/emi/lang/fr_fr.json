@@ -141,7 +141,7 @@
   "config.emi.tooltip.ui.left_sidebar_pages": "Liste d'onglets",
 
   "config.emi.ui.left_sidebar_size": "Dimensions",
-  "config.emi.tooltip.ui.left_sidebar_size": "Nombre de lignes/colonnes",
+  "config.emi.tooltip.ui.left_sidebar_size": "Nombre de colonnes/lignes",
 
   "config.emi.ui.left_sidebar_margins": "Marges",
   "config.emi.tooltip.ui.left_sidebar_margins": "Comment placer les marges",
@@ -159,7 +159,7 @@
   "config.emi.tooltip.ui.right_sidebar_pages": "Liste d'onglets",
 
   "config.emi.ui.right_sidebar_size": "Dimensions",
-  "config.emi.tooltip.ui.right_sidebar_size": "Nombre de lignes/colonnes",
+  "config.emi.tooltip.ui.right_sidebar_size": "Nombre de colonnes/lignes",
 
   "config.emi.ui.right_sidebar_margins": "Marges",
   "config.emi.tooltip.ui.right_sidebar_margins": "Comment placer les marges",
@@ -177,7 +177,7 @@
   "config.emi.tooltip.ui.top_sidebar_pages": "Liste d'onglets",
 
   "config.emi.ui.top_sidebar_size": "Dimensions",
-  "config.emi.tooltip.ui.top_sidebar_size": "Nombre de lignes/colonnes",
+  "config.emi.tooltip.ui.top_sidebar_size": "Nombre de colonnes/lignes",
 
   "config.emi.ui.top_sidebar_margins": "Marges",
   "config.emi.tooltip.ui.top_sidebar_margins": "Comment placer les marges",
@@ -195,7 +195,7 @@
   "config.emi.tooltip.ui.bottom_sidebar_pages": "Liste d'onglets",
 
   "config.emi.ui.bottom_sidebar_size": "Dimensions",
-  "config.emi.tooltip.ui.bottom_sidebar_size": "Nombre de lignes/colonnes",
+  "config.emi.tooltip.ui.bottom_sidebar_size": "Nombre de colonnes/lignes",
 
   "config.emi.ui.bottom_sidebar_margins": "Marges",
   "config.emi.tooltip.ui.bottom_sidebar_margins": "Comment placer les marges",
